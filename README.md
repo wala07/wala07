@@ -3,9 +3,7 @@
 
 "left"> <img src="https://komarev.com/ghpvc/?username=wala07&label=Profile%20views&color=0e75b6&style=flat" alt="wala07" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wala07" alt="wala07" /></a> </p> <p align="left"> <a href="https://twitter.com/" target="blank">
 
-<img src="https://img.shields
-
-.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</a> </p>
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
